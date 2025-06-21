@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: Diieployment
+kind: Deployment
 metadata:
   name: firstapp1-deployment
 spec:
