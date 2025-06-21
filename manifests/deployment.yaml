@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: Deployment
+kind: Diieployment
 metadata:
   name: firstapp1-deployment
 spec:
@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: firstapp1-container
-          image: raoabhijeet123/firstapp1:latest
+          image: registry1750534887072.azurecr.io/image-workflow-1750534825555'
           ports:
             - containerPort: 80
 
