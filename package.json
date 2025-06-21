@@ -1,0 +1,15 @@
+{
+  "name": "firstapp1",
+  "version": "1.0.0",
+  "description": "My first Node.js app for AKS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "author": "abhijeet-singh",
+  "license": "ISC"
+}
+
